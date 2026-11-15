@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://70sxsf2i7pqb"
+path="res://.godot/imported/T3NZU - Drive Forever (SPOTISAVER).mp3-d0c13af600ecaa32d1509c411a8e05ad.mp3str"
+
+[deps]
+
+source_file="res://assets/T3NZU - Drive Forever (SPOTISAVER).mp3"
+dest_files=["res://.godot/imported/T3NZU - Drive Forever (SPOTISAVER).mp3-d0c13af600ecaa32d1509c411a8e05ad.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
